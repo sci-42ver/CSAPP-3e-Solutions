@@ -1,6 +1,6 @@
 #!/bin/bash
 
-################ also see https://bitbucket.org/czg980/automatic_command/src/master/init_ubuntu/gdb_repl/
+################ also see https://bitbucket.org/hervey980/automatic_command/src/master/init_ubuntu/gdb_repl/
 
 #set -o history -o histexpand
 #echo !!

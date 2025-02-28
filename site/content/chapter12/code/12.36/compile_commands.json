@@ -9,9 +9,9 @@
       "main",
       "main.c"
     ],
-    "directory": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
-    "file": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main.c",
-    "output": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
+    "directory": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
+    "file": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main.c",
+    "output": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
   },
   {
     "arguments": [
@@ -23,9 +23,9 @@
       "main",
       "echoservers.c"
     ],
-    "directory": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
-    "file": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/echoservers.c",
-    "output": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
+    "directory": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
+    "file": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/echoservers.c",
+    "output": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
   },
   {
     "arguments": [
@@ -37,9 +37,9 @@
       "main",
       "tiny.c"
     ],
-    "directory": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
-    "file": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/tiny.c",
-    "output": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
+    "directory": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
+    "file": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/tiny.c",
+    "output": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
   },
   {
     "arguments": [
@@ -51,8 +51,8 @@
       "main",
       "../csapp.c"
     ],
-    "directory": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
-    "file": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/csapp.c",
-    "output": "/mnt/ubuntu/home/czg/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
+    "directory": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36",
+    "file": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/csapp.c",
+    "output": "/mnt/ubuntu/home/hervey/CSAPP-3e-Solutions/site/content/chapter12/code/12.36/main"
   }
 ]
